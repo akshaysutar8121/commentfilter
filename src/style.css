@@ -1,0 +1,37 @@
+.main {
+  margin-left: 40px;
+  margin-right: 40px;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid;
+  box-shadow: 5px 10px #dddada;
+}
+.main img {
+  border: 1px solid rgb(97, 69, 69);
+  background-size: contain;
+  width: 100%;
+  height: 100%;
+}
+.comment {
+  position: relative;
+  margin: 10px;
+  padding: 5px;
+  font-size: 18px;
+}
+button {
+  padding: 10px;
+  border-radius: 20px;
+  margin: 10px;
+
+  border: none;
+  text-transform: capitalize;
+}
+button:hover {
+  background: rgb(127, 104, 143);
+  color: white;
+}
+.sec {
+  display: flex;
+}

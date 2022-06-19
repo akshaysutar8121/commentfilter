@@ -1,6 +1,6 @@
 {
   "name": "react",
-  "version": "0.0.0",
+  "version": "12.16.2",
   "private": true,
   "dependencies": {
     "@tensorflow-models/mobilenet": "2.1.0",
